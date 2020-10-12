@@ -1,12 +1,11 @@
-## Hi there, I'm Osania 👋
-A front-end dev, I make websites & app's with JavaScript & React. 
+## Hi there, I'm San 👋
+I'm a front-end dev making websites & app's with JavaScript & React. 
 <br>
+### 🔭 My Current projects are
 
-### 🔭 Current projects
+![Shop-a-lot](https://github.com/san00/online-store), an e-commerce app using React hooks, GraphQL & Strapi
 
-![Shop-a-lot](https://github.com/san00/online-store), an e-commerce app using React hooks & the Strapi CMS
-
-![sancodes Jamstack]() - Portfolio rebuild with Gatsby & Netlify for better performance & scalability. 
+![Jamstack-sancodes]() - An update of my existing portfolio, rebuilt using Gatsby, Netlify CMS for improved performance & scalability. 
 
 <!--
 **san00/san00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
