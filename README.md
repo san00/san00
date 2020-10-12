@@ -1,11 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Osania 👋
+A front-end dev, I make websites & app's with JavaScript & React. 
+<br>
+
+### 🔭 Current projects
+
+![Shop-a-lot](https://github.com/san00/online-store), an e-commerce app using React hooks & the Strapi CMS
+
+![sancodes Jamstack]() - Portfolio rebuild with Gatsby & Netlify for better performance & scalability. 
 
 <!--
 **san00/san00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on Shop-a-lot, an e-commerce app using React hooks.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
