@@ -7,8 +7,8 @@ I'm a front-end dev making websites & app's with JavaScript & React.
 
 * ![Jamstack-sancodes]() - An update of my existing portfolio, rebuilt with Gatsby and a Netlify CMS for improved performance & scalability. 
 
-* Getting griddy wid it - Responsive web & typography design recreations with Flexbox & Grid. :art:
- <br>
+* Getting griddy wid it - Responsive web & typography design recreations with Flexbox & Grid. :art: <br>
+
 ### Things I’m doing to grow my talents  🌱 :open_book:
 
 * Testing with Jest & Enzyme 
