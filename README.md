@@ -1,7 +1,7 @@
 ## Hi there, I'm San 👋
 I'm a front-end dev making websites & app's with JavaScript & React. 
 <br>
-### 🔭 My Current projects are
+###  My Current projects are 🔭
 
 * ![Shop-a-lot](https://github.com/san00/online-store), an e-commerce app built & designed from scratch using React hooks, GraphQL & Strapi.
 
