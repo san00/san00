@@ -5,9 +5,12 @@ I'm a front-end dev making websites & app's with JavaScript & React.
 
 ![Shop-a-lot](https://github.com/san00/online-store), an e-commerce app using React hooks, GraphQL & Strapi
 
-![Jamstack-sancodes]() - An update of my existing portfolio, rebuilt using Gatsby, Netlify CMS for improved performance & scalability. 
+![Jamstack-sancodes]() - An update of my existing portfolio, rebuilt with Gatsby & a Netlify CMS for improved performance & scalability. 
 
-<!--
+### 📫 Connect with me: 
+
+I'm sometimes on twitter, so connect with me there [twitter](https://twitter.com/sancodes)
+
 **san00/san00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,5 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![san00's github stats](https://github-readme-stats.vercel.app/api?username=san00&hide=contribs&theme=cobalt)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san00&layout=compact)](https://github.com/san00/github-readme-stats)
