@@ -9,7 +9,6 @@ I'm a front-end dev making websites & app's with JavaScript & React.
 
 * Getting griddy wid it - Responsive web & typography design recreations with Flexbox & Grid. :art:
  <br>
-
 ### Things I’m doing to grow my talents  🌱 :open_book:
 
 * Testing with Jest & Enzyme 
