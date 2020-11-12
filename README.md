@@ -5,7 +5,7 @@ I'm a front-end dev making websites & app's with JavaScript & React.
 
 * ![Shop-a-lot](https://github.com/san00/online-store), an e-commerce app built & designed from scratch using React hooks, GraphQL & Strapi.
 
-* ![Jamstack-sancodes]() - An update of my existing portfolio, rebuilt with Gatsby and a Netlify CMS for improved performance & scalability. 
+* ![Jamstack-sancodes](https://github.com/san00/Gatsby-sancodes) - An update of my existing portfolio, rebuilt with Gatsby and a Netlify CMS for improved performance & scalability. 
 
 * Getting griddy wid it - Responsive web & typography design recreations with Flexbox & Grid. :art: <br>
 
